@@ -9,7 +9,7 @@ Johnny Coder
 
 ----
 
-Education
+Education 
 ---------
 
 2010-2014 (expected)
