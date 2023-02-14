@@ -16,7 +16,7 @@ Education
 :   **PhD, Computer Science**; Awesome University (MyTown)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+     Estimation Problem* 
 
 2007-2010
 :   **BSc, Computer Science and Electrical Engineering**; University of
